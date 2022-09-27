@@ -13,7 +13,7 @@ namespace dasha_test1
             UserName = "Default";
             MessageText = "Hello";
             TimeStamp = "12:30";
-            nums2 = new int[4];
+            nums2 = new int[6];
         }
 
         public string UserName { get; set; }
