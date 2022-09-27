@@ -13,7 +13,6 @@ namespace dasha_test1
             UserName = "Default";
             MessageText = "Hello";
             TimeStamp = "12:30";
-            Age = 18;
             nums2 = new int[4];
         }
 
